@@ -3,7 +3,7 @@ import React from 'react';
 function BlissSpaGallerySection() {
   const galleryImages = [
     {
-      src: "https://images.pexels.com/photos/3865584/pexels-photo-3865584.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      src: "https://images.pexels.com/photos/3985331/pexels-photo-3985331.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       title: "Tranquil Spa Interior",
       description: "Step into an oasis of calm and serenity."
     },
@@ -23,7 +23,7 @@ function BlissSpaGallerySection() {
       description: "Utilizing the finest natural ingredients for your skin."
     },
     {
-      src: "https://images.pexels.com/photos/3865584/pexels-photo-3865584.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", // Another view of spa interior
+      src: "https://images.pexels.com/photos/3985331/pexels-photo-3985331.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", // Another view of spa interior
       title: "Inviting Waiting Area",
       description: "Begin your journey to relaxation in comfort."
     },
