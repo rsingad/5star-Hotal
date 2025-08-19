@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+/* src/index.css */
+:root {
+    /* hero */
+    /* Primary & Accent Colors */
+    --primary-orange: #F29710;
+    --color-logo-color: #F29710;
+    --secondary-gold: #FFD700;
+
+    /* Neutral & Text Colors */
+    --neutral-dark-blue: #001f3f99;
+    --neutral-white: #FFFFFF;
+    --background-cream: #F8F4E1;
+    /* end hero */
+
+    /* Dining Section Specific Colors */
+    --dining-burgundy: #991F3F;
+    --dining-soft-gray: #E0E0E0;
+
+    /* Reusing existing variables for other purposes */
+    /* Our Luxurious Rooms & Suites */
+    /* सेक्शन का बैकग्राउंड कलर */
+    --roomsection-background-color: #1c76ae;
+
+    /* मुख्य टेक्स्ट (जैसे हैडिंग) का कलर */
+    --roomsection-primary-text-color: #e1b401;
+
+    /* सेकेंडरी टेक्स्ट (जैसे डिस्क्रिप्शन) का कलर */
+    --roomsection-secondary-text-color: #374550db;
+
+    /* कार्ड का बैकग्राउंड कलर */
+    --roomsection-card-bg-color: #ffffff;
+
+    /* एक्सेंट कलर (जैसे आइकन और बटन) */
+    --roomsection-accent-color: #eacb04bd;
+
+    /* बटन पर होवर होने पर एक्सेंट कलर */
+    --roomsection-hover-accent-color: #060a0a99;
+
+
+
+
+    /*rooom detaails   */
+    /* मुख्य बैकग्राउंड */
+    --roomdetail-background-color: #fdfdfd;
+
+    /* मुख्य कार्ड का बैकग्राउंड */
+    --roomdetail-card-bg-color: #8e8989;
+
+    /* प्राइमरी टेक्स्ट (जैसे हैडिंग) */
+    --roomdetail-primary-text-color: #f3b006;
+
+    /* सेकेंडरी टेक्स्ट (जैसे डिस्क्रिप्शन) */
+    --roomdetail-secondary-text-color: #b3bece;
+
+    /* एक्सेंट कलर (जैसे आइकन और "Book Now" बटन) */
+    --roomdetail-accent-color: #660762;
+
+    /* एक्सेंट कलर पर होवर होने पर */
+    --roomdetail-hover-accent-color: #56a607;
+
+    /* बुकिंग बटन का बैकग्राउंड कलर */
+    --roomdetail-booking-btn-bg-color: #fdd700;
+
+    /* बुकिंग बटन पर होवर होने पर कलर */
+    --roomdetail-booking-btn-hover-color: #374151;
+
+    /* इनपुट फील्ड का बॉर्डर */
+    --roomdetail-input-border-color: #adb7c6fd;
+
+    /* इनपुट फील्ड का बैकग्राउंड */
+    --roomdetail-input-bg-color: #ffffff00;
+
+    /* मोडल का बैकग्राउंड */
+    --roomdetail-modal-bg-color: #d2810e;
+
+    /* सक्सेस मैसेज के लिए कलर */
+    --roomdetail-success-bg-color: #009046;
+    --roomdetail-success-text-color: #065f46;
+
+    /* एरर मैसेज के लिए कलर */
+    --roomdetail-error-bg-color: #fee2e2;
+    --roomdetail-error-text-color: #a70000;
+
+
+
+    /* infinitypool section in main page */
+    --infinitypool-background-color: #8fbec5;
+    --infinitypool-primary-text-color: #ffea00;
+    --infinitypool-secondary-text-color: #e6e9ec;
+    --infinitypool-tertiary-text-color: #000000;
+    /* for body text */
+    --infinitypool-button-bg-color: #12d5ea;
+    --infinitypool-button-hover-color: #e7df00;
+    --infinitypool-image-border-color: #00575c;
+
+
+    /* SpaWellnessSection in mai page */
+    --SpaWellnessSection-primary-text-color: #dfb600;
+    /* A dark, sophisticated blue for main headings */
+    --SpaWellnessSection-secondary-text-color: #ff00cc;
+    /* A lighter blue-gray for subheadings and body text */
+    --SpaWellnessSection-accent-color: #169388;
+    /* A vibrant teal for buttons and accents */
+    --SpaWellnessSection-bg-color-light: #F0F9FF;
+    /* A very light, calming blue for the background */
+    --SpaWellnessSection-shadow-color: rgba(223, 247, 11, 0.736);
+
+
+    /* WeddingGardenSection section  */
+    --WeddingGardenSection-primary-color: #12a10d;
+    /* A rich, dark green for headings */
+    --WeddingGardenSection-secondary-color: #555555;
+    /* A deep gray for body text */
+    --WeddingGardenSection-accent-color: #DAA520;
+    /* A golden yellow for buttons */
+    --WeddingGardenSection-accent-hover-color: #4fbbb7;
+    /* A slightly darker gold for hover effect */
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    color: var(--neutral-dark-blue);
+    background-color: var(--background-cream);
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Playfair Display', serif;
+    color: var(--neutral-dark-blue);
+}

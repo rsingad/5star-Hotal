@@ -1,0 +1,21 @@
+1)hotel
+main-logo.svg (hotel logo sbg/png formate);
+favicon.ico(web ko serasc jrne pr to tab pe dikhta hai vo logo)
+video.mp4( some small clips like 5 to 10 sec ,high quality but small mb size)
+
+room types
+    type1
+        type1-coverphoto.jpg
+        type1.some photos 
+    type2
+        ...
+        ..
+    ....
+
+hotel Photo Gallery
+
+photos of all owner / mamnger /... and best awords of hotel
+
+hotel instaid, email, whatappnum, linkdin,twiter,
+
+
