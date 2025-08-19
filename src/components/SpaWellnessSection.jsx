@@ -83,7 +83,7 @@ function SpaWellnessSection() {
           {/* Image Section - Right on desktop, bottom on mobile */}
           <div className="order-1 lg:order-2 group opacity-0 animate-slide-up-delay-2">
             <img
-              src="https://images.pexels.com/photos/3865584/pexels-photo-3865584.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+              src="https://images.pexels.com/photos/3985331/pexels-photo-3985331.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
               alt="Luxurious Spa Interior with a relaxing ambiance"
               className="group-image rounded-2xl shadow-xl w-full h-auto object-cover max-h-[500px] lg:max-h-[650px] transition-all duration-500 transform"
               style={{ minHeight: '300px' }} // Ensures a minimum height on smaller screens
