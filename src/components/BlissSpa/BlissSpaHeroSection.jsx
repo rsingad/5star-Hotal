@@ -5,7 +5,7 @@ function BlissSpaHeroSection() {
   // Image data for the hero section, focusing on serene spa visuals
   const imageData = [
     {
-      src: 'https://images.pexels.com/photos/3865584/pexels-photo-3865584.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2', // Spa interior with calming ambiance
+      src: 'https://images.pexels.com/photos/3985331/pexels-photo-3985331.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2', // Spa interior with calming ambiance
       heading: 'Bliss Spa: A Sanctuary for Your Senses',
       subheading: 'Step into a world of tranquility and rejuvenation, where every touch brings harmony.',
       buttonText: 'Explore Our Treatments',
